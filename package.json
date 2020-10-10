@@ -7,7 +7,6 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
-  "author": "Yauhen Kavalchuk",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
